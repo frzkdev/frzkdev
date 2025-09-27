@@ -43,5 +43,5 @@ Welcome to my GitHub profile! I'm a passionate developer who loves creating amaz
 ## Connect with me
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/frzkdev)
-[![LOLZ](https://img.shields.io/badge/LOLZ-00FF00?style=for-the-badge&logo=gamepad&logoColor=white)](https://lolz.live/frzkdev/)
+[![LOLZ](https://img.shields.io/badge/LOLZ-28A745?style=for-the-badge&logo=gamepad&logoColor=white)](https://lolz.live/frzkdev/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/frzkdev)
